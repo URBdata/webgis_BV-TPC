@@ -12,7 +12,7 @@ QGIS Plugins:<br />
 <a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a><br />
 <br />
 Map data:<br />
-<a href="[https://google.com/maps](https://cartodb.com/basemaps/)">Map tiles by CartoDB, under CC BY 3.0. Data by OpenStreetMap, under ODbL.</a><br />
+<a href="https://cartodb.com/basemaps/">Map tiles by CartoDB, under CC BY 3.0. Data by OpenStreetMap, under ODbL.</a><br />
 <br />
 Data Collection:<br />
 <a href="https://www.urbdata.com.br/">URBdata®</a><br />
